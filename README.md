@@ -1,5 +1,10 @@
 <img src="logo.png" alt="Distributed Ledger Consulting" height="50px">
 
+# Committed Solutions
+
+- [Tackling Blockchain Dilemmas (TBD)](https://github.com/Distributed-Ledger-Consulting/scc-sto)
+- [James Bond(s)](https://github.com/niklasb/st)
+
 # Smart Contract Conference: Talking Coders
 
 "It's very attractive to the libertarian viewpoint if we can explain it properly. I'm better with code than with words though." While Nakamoto's code enabled a new world, we are reaching the point where we need words again. Not everybody is a coder. And even less are solidity developers. If we do not want (solidity) coders to be a new middleman we need to translate smart contracts into everyday English. We do not want to enable an elite group for the new world. Therefore this Hackathon will focus on 1) building together with lawyers and regulators and 2) present the results in a non-coder friendly way. Because it's time to talk. The code does not speak for itself. It only gets executed. But we are dealing with values beyond integers. It's not just a number anymore. It's a new type of value. And this value must be communicated not just transmitted.
