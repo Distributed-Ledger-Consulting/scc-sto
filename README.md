@@ -2,7 +2,7 @@
 
 # Committed Solutions
 
-- [Tackling Blockchain Dilemmas (TBD)](https://github.com/Distributed-Ledger-Consulting/scc-sto)
+- [Tackling Blockchain Dilemmas (TBD)](https://github.com/Distributed-Ledger-Consulting/TBD-MCART)
 - [James Bond(s)](https://github.com/niklasb/st)
 
 # Smart Contract Conference: Talking Coders
